@@ -1,2 +1,2 @@
-# sumofnumbers
+# 
 Practice WOD1
